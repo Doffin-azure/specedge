@@ -11,6 +11,7 @@ wheels/
 
 # Result folders
 result/
+/data/c4_prompts.json
 
 # configuration
 config/*
